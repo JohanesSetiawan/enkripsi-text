@@ -10,7 +10,7 @@ This project is a starting point for a Flutter application.
 uhh... i can't say that, go check code.
 
 ## Problems and Bugs?
-- decrypting text is most hard to code, because i don't know the encrypt and decrypt algorithm *thanl chatGPT to help create code.*
+- decrypting text is most hard to code, because i don't know the encrypt and decrypt algorithm (it's done) *thanks chatGPT to help create code.*
 
 ## Feature?
 - input plain text, and botton to click encrypt.
